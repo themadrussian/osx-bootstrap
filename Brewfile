@@ -4,6 +4,7 @@ httpie
 wget
 packer
 watch
+htop
 
 ## Programming stuff
 rbenv
@@ -14,6 +15,9 @@ npm
 python
 git
 git-flow
+gcc
+r
+node
 
 ## Shell stuff
 zsh
@@ -36,6 +40,7 @@ cloudfoundry-cli
 #fortune
 #cowsay
 youtube-dl
+sl
 
 ## Games
 homebrew/games/ckan
