@@ -20,5 +20,8 @@ brew cask install $(cat Caskfile|grep -v "#")
 source 'settings.sh'
 source 'symlink-dotfiles.sh'
 
+# install atom plugins
+apm install --packages-file atom-packages-list.txt
+
 # Update OS X
 sudo softwareupdate -i -a
