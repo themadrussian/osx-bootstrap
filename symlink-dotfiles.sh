@@ -1,8 +1,8 @@
 #!/bin/bash
 # Most of this is from https://github.com/paulmillr/dotfiles/blob/master/symlink-dotfiles.sh
 
-dev="$HOME/Developer"
-dotfiles="$dev/jonasrosland/osx-bootstrap/dotfiles"
+dev="$HOME/Projects"
+dotfiles="$dev/osx-bootstrap/dotfiles"
 
 if [[ -d "$dotfiles" ]]; then
   echo "Symlinking dotfiles from $dotfiles"
@@ -24,3 +24,6 @@ for location in $dotfiles/.{zshrc,tmux.conf} ; do
   file="${file%.sh}"
   link "$location" "$HOME/$file"
 done
+
+#### TODO
+# all other dotfiles... there are many
