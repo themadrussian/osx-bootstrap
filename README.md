@@ -14,7 +14,7 @@ These files will install a bunch of great tools on your newly installed Mac. If 
 Run the following command to do a proper install of Homebrew, cask, oh-my-zsh, and a bunch of great tools and apps:
 
 ```
-curl --silent https://raw.githubusercontent.com/jonasrosland/osx-bootstrap/master/install.sh | sh
+curl --silent https://raw.githubusercontent.com/themadrussian/osx-bootstrap/master/install.sh | sh
 ```
 
 ## Customize Install
