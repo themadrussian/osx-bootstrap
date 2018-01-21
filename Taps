@@ -2,7 +2,7 @@
 caskroom/versions
 
 ## Add tap for Pivotal
-pivotal/tap
+#pivotal/tap
 
 ## Tap for packer
 homebrew/binary
