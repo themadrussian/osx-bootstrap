@@ -34,13 +34,13 @@ tmate
 caskroom/cask/brew-cask
 
 ## Pivotal CF cli
-cloudfoundry-cli
+#cloudfoundry-cli
 
 ## Time-waste stuff
 #fortune
 #cowsay
-youtube-dl
-sl
+#youtube-dl
+#sl
 
 ## Games
-homebrew/games/ckan
+#homebrew/games/ckan
