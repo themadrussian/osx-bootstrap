@@ -2,16 +2,16 @@
 
 ## Standard app replacements
 # Web
-google-chrome
+#google-chrome
 # Terminal
-iterm2
+#iterm2
 
 ## Boxes
 # Virtualization
-vagrant
-virtualbox
+#vagrant
+#virtualbox
 # Containers
-dockertoolbox
+#dockertoolbox
 
 ## Coding
 # SourceTree
@@ -30,7 +30,7 @@ qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql suspicious-package
 # Window management
 spectacle
 # Logitech Unifying software for keyboard and trackball
-logitech-unifying
+#logitech-unifying
 
 ## Media
 # Video player
@@ -42,11 +42,11 @@ xee
 # Comic reader
 #simple-comic
 # Sonos music manager
-sonos
+#sonos
 # Soundcloud client (yes, that's the correct spelling)
-soundcleod
+#soundcleod
 # Adobe Flash
-flash
+#flash
 # Podcast player
 #instacast
 # Music player - install vox from App Store instead
@@ -61,7 +61,7 @@ screenflow
 #evernote
 #nvalt
 # VMware View
-vmware-horizon-view-client
+#vmware-horizon-view-client
 # Collaboration
 #slack - use App store instead
 # Podcast cleanup
@@ -69,16 +69,16 @@ vmware-horizon-view-client
 audio-hijack
 
 ## Cloud resources
-google-cloud-sdk
+#google-cloud-sdk
 
 ## Social
 # Skype
-skype
+#skype
 
 ## Storage
 # Online storage
-dropbox
-google-drive
+#dropbox
+#google-drive
 # Compression
 keka
 # Management
@@ -86,4 +86,4 @@ filezilla
 
 ## Games
 # Steam client - now possible to stream games from the gaming rig to the Mac!
-steam
+#steam
